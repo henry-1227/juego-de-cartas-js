@@ -15,7 +15,7 @@ body{
     color: var(--white);
 }
 main {
-    margin: 30px auto;
+    margin: 100px auto;
 }
 .section1 {
     background-color: rgba(255, 255, 255, 0.2);
@@ -34,7 +34,7 @@ button {
     height: 85px;
     font-size: 40px;
     font-weight: bold;
-    color: var(--black);
+    color: var(--white);
 }
 button:hover{
     cursor: pointer;
